@@ -30,6 +30,10 @@
             android:name="edu.Drake.androidactivities.ThirdActivity"
             android:label="@string/title_activity_third" >
         </activity>
+        <activity
+            android:name="edu.Drake.androidactivities.FourthActivity"
+            android:label="@string/title_activity_fourth" >
+        </activity>
     </application>
 
 </manifest>

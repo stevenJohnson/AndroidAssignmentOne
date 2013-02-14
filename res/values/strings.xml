@@ -5,11 +5,14 @@
     <string name="hello_world">this here be the first screen</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_second">SecondActivity</string>
-    <string name="second_screen">hey! i told you not to press that...</string>
+    <string name="second_screen">hey! i told you not to press that&#8320;</string>
     <string name="title_activity_third">ThirdActivity</string>
-    <string name="third_text">&quot;\they that was mean.\nwell now you're stuck here forever..\nhave fun with the counter!&quot;</string>
+    <string name="third_text">&quot;\they that was mean.\nwell now you're stuck here forever..\nnot really anymore\nbut have fun with the counter anyway!&quot;</string>
     <string name="solemn_warning">do NOT press this</string>
     <string name="whoopsy">&quot;i'm sorry! take me back to the first screen&quot;</string>
     <string name="so_what">oh yeah?? wocha gonna do bout it?</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="next">Next</string>
+    <string name="net">Net Troll Level 10 - He has no special powers, and he\'s really mad about it.</string>
 
 </resources>
